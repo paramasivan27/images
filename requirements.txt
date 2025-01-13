@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+transformers 1.001
+requests
+langchain_community
+tensorflow
